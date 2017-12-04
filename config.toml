@@ -1,7 +1,6 @@
 languageCode = "en-us"
 title = "Prologue"
 baseurl = "http://example.org/"
-theme = "prologue"
 
 [params]
   name = "Jane Doe"
