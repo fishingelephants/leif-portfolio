@@ -1,10 +1,10 @@
 languageCode = "en-us"
-title = "Prologue"
-baseurl = "http://example.org/"
+title = "Nyaman"
+baseurl = "http://nyaman.org/"
 
 [params]
-  name = "Jane Doe"
-  description = "Hyperspace Engineer"
+  name = "Leif Latiff"
+  description = "Systems Engineer"
   copyright = "Untitled."
 
 [[params.social]]
