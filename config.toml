@@ -4,7 +4,7 @@ title = "Leif Latiff, a Full Stack Engineer"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-110966525-1"
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
@@ -22,22 +22,6 @@ googleAnalytics = ""
   Email         = "leif.latiff@gmail.com"
   Twitter       = "lee_eep"
   LinkedIn      = "leiflatiff"
-  Medium = "leiflatiff"
-  Instagram = "lee_eep"
+  Medium        = "leiflatiff"
+  Instagram     = "lee_eep"
 
-## Main Menu
-[[menu.main]]
-  name = "blog"
-  weight = 100
-  identifier = "blog"
-  url = "/blog/"
-[[menu.main]]
-  name = "projects"
-  identifier = "projects"
-  weight = 200
-  url = "/projects/"
-[[menu.main]]
-  name = "resume"
-  identifier = "resume"
-  weight = 300
-  url = "/resume/"
