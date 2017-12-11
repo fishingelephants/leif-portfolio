@@ -1,17 +1,15 @@
 {{ partial "head" . }}
   <body>
     <div id="wrap">
-<!--      {{ partial "header" . }} -->
       <section id="about">
         <div class="container">
-<!--          <div class="avatar">
-            <img class="img-circle" src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Responsive image">
-          </div> -->
-            <h1><strong>I'm {{ .Site.Params.author }}</strong></h1>
-            <h3>I'm a Systems Engineer. I love all things computer science and maths.</h3>
-            <h3>Have a look at some of my working <a href="{{ .Site.BaseURL }}projects/"> projects</a>.</h3>
-            <h3>For more check out my academic &amp; professional <a href="https://demo.nurlan.co/hugo-vitae/">resume</a>.</h3>
-            <h3>Contact me at <a href="http://twitter.com/{{ .Site.Params.Social.Twitter }}">@{{ .Site.Params.Social.Twitter }}</a> or by <a href="mailto:{{ .Site.Params.Social.Email }}">email</a>.</h3>
+            <h1><strong>I'm {{ .Site.Params.author }}</strong>.</h1>
+            <h3>I'm a freelance Full Stack Developer and Support Specialist, working remotely.</a></h3>
+            <h3>By day, I work as Wintel Engineer at a German multinational company. Which means I run and maintained Windows servers for corporate clients.</h3> 
+            <h3>You can check my CV <a href="https://www.linkedin.com/in/">here</a>. My web projects are <a href="/portfolio">here</a>, and also at <a href="https://github.com/{{ .Site.Params.Social.Github }}">Github</a>.</h3>
+            <h3>I've been a musician. And my band used to rock the local chart but shortlived. I ended up being a <a href="/history">guitar pedal geek</a> for years.</h3>
+            <h3>I'm recently fascinated with being minimalist. The reason why I make this page plain and neat. My current obsession are running and actively joining <a href="/running">marathon</a> events. Occasionally I share my thoughts on <a href="https://medium.com/{{ .Site.Params.Social.Medium }}">medium</a>. Check out my <a href="/now">NOW page</a>, to see what am I doing now. It will change through time.</h3>
+            <h3>You can find me at the social media below. Love to chat, do holler.</h3>
             {{ partial "social.html" . }}
         </div>
       </section>
