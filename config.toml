@@ -1,4 +1,4 @@
-baseurl = "https://www.fishingelephants.com"
+baseurl = "/"
 languageCode = "en-US"
 title = "Leif Latiff, a Systems Engineer"
 # Enable comments by entering your Disqus shortname
@@ -11,7 +11,7 @@ googleAnalytics = ""
 
 [params]
   author = "Leif Latiff"
-  description = "Systems Engineer"
+  description = "Full Stack Engineer"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
