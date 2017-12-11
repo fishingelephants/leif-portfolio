@@ -2,8 +2,6 @@
   <body>
     <div id="wrap">
 
-      <!-- Header -->
-      {{ partial "header" . }}
       {{ if isset .Params "showpagemeta" }}
         {{ .Render "projects" }}
       {{ else }}
