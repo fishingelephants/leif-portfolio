@@ -25,19 +25,4 @@ googleAnalytics = "UA-110966525-1"
   Medium        = "leiflatiff"
   Instagram     = "lee_eep"
 
-## Main Menu
-[[menu.main]]
-  name = "blog"
-  weight = 100
-  identifier = "blog"
-  url = "/blog/"
-[[menu.main]]
-  name = "projects"
-  identifier = "projects"
-  weight = 200
-  url = "/projects/"
-[[menu.main]]
-  name = "resume"
-  identifier = "resume"
-  weight = 300
-  url = "/resume/"
+
