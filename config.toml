@@ -10,7 +10,7 @@ googleAnalytics = "UA-110966525-1"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  author = "Leif Latiff"
+  author = "Leif"
   description = "Full Stack Engineer"
 
   # Custom assets can be linked with their paths relative to static/

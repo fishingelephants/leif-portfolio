@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leif Latiff, a Full Stack Engineer</title>
+    <link>/</link>
+    <description>Recent content on Leif Latiff, a Full Stack Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Now</title>
+      <link>/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/now/</guid>
+      <description>#What I’m doing now
+###(This is a now page, and if you have your own site, you should make one, too.)
+I’m home in Cyberjaya, Malaysia.
+##I’ve got three new adventures going on: - Creating a brand new personal cum CV cum portfolio site - Resharpening my front-end development skills - Actively looking for remote job
+*Updated on 12/12/17</description>
+    </item>
+    
+  </channel>
+</rss>
