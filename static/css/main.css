@@ -23,7 +23,7 @@ html, body {
 .container {
   width: auto;
   max-width: 800px;
-  text-align: center;
+  text-align: left;
 }
 .container .text-muted {
   margin: 20px 0;
@@ -73,7 +73,7 @@ html, body {
   padding-top: 2px;
 }
 .related-posts h4 {
-  text-align: center;
+  text-align: left;
 }
 .page-not-found {
   padding-top: 20%;
@@ -87,19 +87,3 @@ html, body {
   font-size: 18px;
 }
 
-/* Footer  */
-.footer {
-  text-decoration: none !important;
-}
-.text-muted {
-	color: #6b6b6b;
-}
-div.footer{
-  border-bottom: 5px solid #6b6b6b;;
-}
-/* Set the fixed height of the footer here */
-/*.footer {
-  height: 50px;
-  padding-bottom: 15px;
-  
-}*/

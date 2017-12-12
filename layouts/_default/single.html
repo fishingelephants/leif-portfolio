@@ -4,12 +4,10 @@
       <section id="about">
         <div class="container">
           <h1><strong>{{ .Title }}</strong></h1>
-          {{ .Content }}
-          <hr>
+          <div><p>{{ .Content }}</p></div>
           <h1><a href="/"><strong>Back</strong></a></h1>
         </div>
       </section>
     </div>
-    {{ partial "footer" . }}
   </body>
 </html>
