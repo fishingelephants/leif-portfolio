@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>/now/</loc>
+    <loc>/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
+    <loc>/now/</loc>
   </url>
   
 </urlset>
